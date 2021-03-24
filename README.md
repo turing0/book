@@ -1,3 +1,3 @@
 # book
 
-1
+collect pdf
